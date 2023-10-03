@@ -29,6 +29,10 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-##Cloning the repository
+## Cloning the repository
 
 In your desired local directory, use `git clone [URL]` to clone the directory. "URL" is obtained under the green button "Code" on the repository's main page.
+
+## Keeping track of tasks
+
+In this repository, go to the Projects tab in hte upper left corner. Click on "CRaM" and this will lead to the kanban board where we keep track of our tasks and features. 
